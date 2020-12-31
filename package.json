@@ -1,0 +1,22 @@
+{
+    "name": "sails-hook-mongo-createindex",
+    "version": "1.0.0",
+    "description": "Modern sails hook to create indexes in MongoDB",
+    "main": "index.js",
+    "sails": {
+        "isHook": true
+    },
+    "scripts": {
+        "test": "echo \"No tests...\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0xGREG/sails-hook-mongo-createindex.git"
+    },
+    "author": "0xGREG",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/0xGREG/sails-hook-mongo-createindex/issues"
+    },
+    "homepage": "https://github.com/0xGREG/sails-hook-mongo-createindex#readme"
+}
