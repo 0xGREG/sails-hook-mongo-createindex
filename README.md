@@ -6,7 +6,7 @@ This hook solve by using MongoDB's `createIndex` function to create the indexes.
 
 ## Getting started
 
-1. Install the package
+1. Install the package using `npm install --save sails-hook-mongo-createindex`
 2. Make sure you are using the `sails-mongo` database adapter
 3. Lift the app: `sails lift`
 
